@@ -2,7 +2,9 @@
 Keeping track of recent researches on the "3D Indoor Scene Reconstruction" task, and categorizing them based on the approached methods.
 
 
+## 3D Scene Reconstruction
 
+* PlanarRecon: Real-time 3D Plane Detection and Reconstructionfrom Posed Monocular Video (CVPR 2022) [[arXiv](https://arxiv.org/abs/2206.07710)]
 
 ## Depth Estimation
 
